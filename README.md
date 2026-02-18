@@ -2,6 +2,16 @@
 
 A full-stack web application for ingesting, correlating, and triaging security alerts from Microsoft 365 and other security sources.
 
+## Live Demo (coming soon)
+- Demo: 
+- Demo credentials: 
+
+# Screenshots
+- ![Dashboard & high-priority queue](docs/screenshots/dashboard.png)
+- ![Incident details](docs/screenshots/incident-detail.png)
+- ![Alerts](docs/screenshots/alerts.png)
+- ![Upload Data](docs/screenshots/upload-data.png)
+
 ## Features
 
 - **Data Ingestion**: Upload JSON/CSV alert files via drag-and-drop UI
