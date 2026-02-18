@@ -1,0 +1,11 @@
+id,title,severity,category,source,user,ip,device,location,timestamp
+aad-001,Admin account created outside of policy,high,Identity,Azure AD,admin.new@contoso.com,10.0.0.5,DC-SERVER01,Seattle USA,2024-01-15T08:00:00Z
+aad-002,Privileged role assigned,medium,Identity,Azure AD,admin.new@contoso.com,10.0.0.5,DC-SERVER01,Seattle USA,2024-01-15T08:02:00Z
+aad-003,MFA disabled for user,high,Identity,Azure AD,temp.contractor@contoso.com,10.0.0.5,DC-SERVER01,Seattle USA,2024-01-15T08:05:00Z
+aad-004,Suspicious OAuth app consent,high,Identity,Azure AD,lisa.chen@contoso.com,192.168.1.100,LAPTOP-LC004,Boston USA,2024-01-15T13:00:00Z
+aad-005,Multiple users from single IP,medium,Identity,Azure AD,lisa.chen@contoso.com,85.120.45.33,,Unknown,2024-01-15T13:10:00Z
+aad-006,Multiple users from single IP,medium,Identity,Azure AD,bob.martin@contoso.com,85.120.45.33,,Unknown,2024-01-15T13:12:00Z
+aad-007,Multiple users from single IP,medium,Identity,Azure AD,carol.white@contoso.com,85.120.45.33,,Unknown,2024-01-15T13:15:00Z
+aad-008,Legacy authentication detected,low,Identity,Azure AD,legacy.app@contoso.com,10.0.1.50,APP-SERVER02,Seattle USA,2024-01-15T15:00:00Z
+aad-009,Sign-in from malware-linked IP,critical,Identity,Azure AD,david.brown@contoso.com,91.234.56.78,,Frankfurt Germany,2024-01-15T16:30:00Z
+aad-010,Password spray attack detected,critical,Identity,Azure AD,,,91.234.56.78,,2024-01-15T16:25:00Z
