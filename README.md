@@ -7,10 +7,10 @@ A full-stack web application for ingesting, correlating, and triaging security a
 - Demo credentials: 
 
 # Screenshots
-- ![Dashboard & high-priority queue](docs/screenshots/dashboard.png)
-- ![Incident details](docs/screenshots/incident-detail.png)
-- ![Alerts](docs/screenshots/alerts.png)
-- ![Upload Data](docs/screenshots/upload-data.png)
+- ![Dashboard & high-priority queue](docs/dashboard.png)
+- ![Incident details](docs/incident-detail.png)
+- ![Alerts](docs/alerts.png)
+- ![Upload Data](docs/upload-data.png)
 
 ## Features
 
